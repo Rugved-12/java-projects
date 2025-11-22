@@ -46,4 +46,34 @@ public class SPS
            System.out.println("Thanks for playing Game.."+"\n"+"play again.");
       sc.close();
     }
+
 }
+
+-----------OUTPUT---------------
+    Welcome to Stone paper Scissors Game!.
+choose your move:
+for Stone 0 ,Paper 1 ,Scissor 2:
+0
+your choice->Stone
+Computer's choice->Stone
+Tie!
+Do you want to play again?(y/n):
+y
+choose your move:
+for Stone 0 ,Paper 1 ,Scissor 2:
+2
+your choice->Scissor
+Computer's choice->Scissor
+Tie!
+Do you want to play again?(y/n):
+y
+choose your move:
+for Stone 0 ,Paper 1 ,Scissor 2:
+0
+your choice->Stone
+Computer's choice->Scissor
+Congratulations! you won the game...
+Do you want to play again?(y/n):
+n
+Thanks for playing Game..
+play again.
